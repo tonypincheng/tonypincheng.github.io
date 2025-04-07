@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Ph.D. candidate at UC San Diego and Altos Labs, specializing in single-cell genomics and bioinformatics. Based in San Diego, I work in the Kun Zhang Lab, where I developed RETrace v2—a dual-omic platform integrating DNA and methylation data, boosting lineage tracing resolution 300-fold. I code in Python, R, and Linux/Bash, building pipelines to analyze NGS data and explore cancer, aging, and regenerative medicine.
+
+Originally from in Taichung, Taiwan, I hold an M.D. from Kaohsiung Medical University and an M.S. from USC in stem cell biology. Before genomics, I researched neurodegeneration and stem cell aging. I’m passionate about using high-throughput technologies and computational tools to improve healthcare and make an impact. Outside the lab, I love San Diego’s beaches and exploring Taiwanese food and boba.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
