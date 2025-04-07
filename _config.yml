@@ -150,6 +150,7 @@ exclude:
   - _includes/projects.liquid
   - _pages/repositories.md
   - _includes/repository/
+  - assets/json/resume.json
 
   
 keep_files:
