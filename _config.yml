@@ -143,10 +143,8 @@ exclude:
   - readme_preview/
   - vendor
   - _news/announcement_*.md
+  - _posts/
   - _pages/blog.md
-  - _pages/dropdown.md
-  - _pages/about.md
-  - _projects/?_project.md
   - assets/jupyter/blog.ipynb
   - _news/
   - _includes/news.liquid
