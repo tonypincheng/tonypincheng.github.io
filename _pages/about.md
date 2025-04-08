@@ -30,3 +30,7 @@ Originally from Taichung, Taiwan, I hold an M.D. from Kaohsiung Medical Universi
 I’m passionate about using high-throughput technologies and computational tools to improve healthcare and make an impact. 
 
 Outside the lab, I love San Diego’s beaches and exploring Taiwanese food and boba.
+
+
+
+&nbsp;
